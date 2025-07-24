@@ -2,7 +2,7 @@ const now = require('performance-now');
 const { franceking } = require('../main');
 
 if (!global.botStartTime) global.botStartTime = Date.now();
-
+https://flash-for-prince.onrender.com
 function detectPlatform() {
     const hostEnv = process.env.HOST_PROVIDER?.toLowerCase();
 
